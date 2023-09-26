@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-center.justify-center.font-bold.text-lg {
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
